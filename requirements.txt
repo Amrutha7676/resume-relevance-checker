@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+langsmith
+chromadb
+openai
+pypdf
+python-docx
+streamlit
+faiss-cpu
